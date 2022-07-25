@@ -378,7 +378,7 @@
         "secondary_dns_server": "8.8.4.4", 
         "sni": "m.waze.com", 
         "config_mode": "ssl", 
-        "url_check_user": "http://megassh.rpssh.xyz:5000", 
+        "url_check_user": "http://144.22.225.123:5000", 
         "config_openvpn": "", 
         "proxy_hostname": "", 
         "sort_order": 1, 
